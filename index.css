@@ -1,0 +1,35 @@
+/*estilização do corpo do site*/
+
+p{
+    text-align: center;
+    font-size: 17px;
+    color:rgb(85, 8, 8);
+    font-weight: bold;
+    opacity: 0.5;
+    }
+
+        h1{
+        font-family:'Dancing Script', cursive;
+        text-align: center;
+        color:rgb(12, 11, 11);
+        font-size: 80px;
+        }
+            font{
+            font-style: italic;
+            font-family: 'Pacifico', cursive;
+            }
+                image{
+                background-image: url(./imagens/001.jpg);
+                }
+
+                    form{
+                    font-size: large;
+                    text-align: center;
+                    font-size: 17px;
+                    }
+                        pre{
+                        text-align: center;
+                        font-size: 17px;
+                        color:rgb(85, 8, 8);
+                        font-weight: bold; 
+                        }
